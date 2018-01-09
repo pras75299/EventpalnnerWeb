@@ -14,12 +14,14 @@ Website for Event planner company, with the rich experience of event planning ex
 
 ## About Eventplanner
 - This website based on a concept of Arranging Events, and it can be an advantage for user to call for this service from home, and service provider will arrange the party according to you, It contains rich UI, User can arrange parties like:-
+    - Special Event and Launch Events
+    - Award Ceremony and Conference
+    - Seminars
     - Birthday Party
     - Anniversary Party
     - Baby Shower
     - Engagement Party
-    - House Party
-    - Celebration
+    - Theme Party
     - Product Launch
     
     
